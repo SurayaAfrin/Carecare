@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.my-nav{
+    background-color: #1F6A97;
+}
+.my-nav ul li a{
+    color: #fff;
+    font-size: 12px;
+    margin-right: 20px;
+    translate: all 0.5s ease;
+}
+.my-nav ul li a:hover{
+    color: #ccc;
+    transform: scale(1.1);   
+}
+.my-nav .my-nav-button{
+    background-color: #1F6A97;
+    color: #ccc;
+    border-color: #ccc;
+    padding: 0 10px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.hero-text h3{
+    margin-top: 60px;
+    font-size: 28px;
+}
+.hero-text p{
+    margin-top: 20px;
+    font-size: 13px;
+}
+.my-btn{
+    background-color: #1F6A97;
+    padding: 5px 12px;
+    color: #ccc;
+    font-size: 12px;
+}
+.bod .class1{
+    background-color: #1F6A97;
+    text-align: center;
+    padding: 30px 0 20px 0;
+    color: #ccc;
+}
+.bod .class1 .p1{
+    font-size: 20px;
+}
+.bod .class1 .p2{
+    font-size: 13px;
+}
+.bod .class2{
+    padding-top: 50px;
+}
+.bod .class2 h3{
+    color: #1F6A97;
+    font-weight: 480;
+    font-size: 20px;
+}
+.bod .class2 .p3{
+    font-size: 12px;
+    line-height: 13px;
+}
+.bod .class3{
+    background-color: #1F6A97;
+    padding-top: 30px;
+}
+.bod .class3 h3{
+    color: #ccc;
+    font-weight: 480;
+    font-size: 20px;
+}
+.bod .class3 p{
+    color: #ccc;
+    font-size: 12px;
+    line-height: 13px;
+}
+.class4 h3{
+    color: #1F6A97;
+    font-weight: 480;
+    font-size: 30px;
+    margin: 50px 0 30px 80px;
+}
+.bod .class5{
+    background-color: #1F6A97;
+}
+.bod .class5 h3{
+    margin-top: 30px;
+    color: #ccc;
+    text-align: center;
+    font-weight: 480;
+    font-size: 20px;
+}
+.bod .class5 .line::before{
+    content: "";
+    height: 100px;
+    width: 1px;
+    background-color: #ccc;
+    float: left;
+    margin-right: 50px;
+}
+.bod .class5 p{
+    margin-top: 20px;
+    color: #ccc;
+    font-size: 12px;
+    line-height: 13px;
+}
+.bod .class5 .class5-1 p{
+    margin-top: 30px;
+    color: #ccc;
+    font-size: 30px;
+    line-height: 13px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.bod .class5 i{
+    color: #ccc;
+    font-size: 20px;
+    padding-left: 110px;
+}
+
+.bod .class6-1{
+    border: 1px solid #ccc;
+    box-shadow: 0 20px 50px rgba(204, 204, 204,0.9);
+    padding: 40px 0;
+}
+/* #FFF000
+#286A93
+#799EB2 */
+.bod .class6-1 h5{
+    color: #286A93;
+    text-align: center;
+    font-size: 20px;
+}
+.bod .class6 .class6-p1{
+    color: #1e5c82;
+    text-align: center;
+    font-size: 18px;
+}
+.bod .class6-1 h3{
+    color: #286A93;
+    text-align: center;
+    font-size: 40px;
+}
+.bod .class6-1 h3 span{
+    color: #286A93;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 100px;
+    position: relative;
+}
+.bod .class6 .class6-p2{
+    color: #FE0000;
+    text-align: center;
+    font-size: 18px;
+}
+.bod .class6-1 button{
+    background-color: #FFF000;
+    border-color: #FFF000;
+    color: #1e5c82;
+    text-align: center;
+    margin-left: 160px;
+}
+.bod .class6 .class6-p3{
+    text-align: center;
+}
+.bod .class6 .class6-p3 span{
+    font-weight: bold;
+    color: #43484a;
+}
+.bod .class6 .class6-p4{
+    text-align: center;
+    font-weight: bold;
+    color: #43484a;
+}
+.bod .class7 h3{
+    color: #1F6A97;
+    margin-left: 20px;
+    font-weight: 480;
+    font-size: 30px;
+    margin: 50px 0;
+}
+.bod .class9 p{
+    color: #1F6A97;
+    margin: 50px 0;
+    text-align: center;
+    font-size: 30px;
+}
+.bod .class10{
+    background-color: #1e5c82;
+}
+.bod .class10 .my-footer-button{
+    background-color: #1F6A97;
+    color: #ccc;
+    border-color: #ccc;
+    padding: 0 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 50%;
+}
+.bod .class10 label{
+    color: #ccc;
+    margin-top: 30px;
+    text-align: center;
+}
+.bod .class10 input{
+    background-color: #1e5c82;
+}
+.bod .class10 i{
+    color: #ccc;
+    text-align: center;
+    position: relative;
+    left: 40%;
+    padding-right: 10px;
+}
+.bod .class10 p{
+    color: #ccc;
+    text-align: center;
+}
